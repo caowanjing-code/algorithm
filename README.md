@@ -67,5 +67,6 @@
 堆是一颗顺序存储的完全二叉树
 
 最后排序的结果是每个节点的关键字都不大于父节点
-![image](https://user-images.githubusercontent.com/85599204/134468623-3918bbe3-2bd9-4be2-acdd-1881c61e0527.png)
+
+![image](https://user-images.githubusercontent.com/85599204/134481618-719bf2a9-3ad2-46f8-bb3e-9d28014a3642.png)
 
